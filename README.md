@@ -28,7 +28,7 @@ The objective is to design and simulate a logic board that:
 
 ## ▶️ Demo Video
 
-Click the thumbnail or [watch the demo](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) on YouTube.
+Click the thumbnail or [watch the demo](https://youtube.com/shorts/wxv4EA_08Yg?feature=share) on YouTube.
 
 ## 🧪 Setup & Usage Instructions
 
